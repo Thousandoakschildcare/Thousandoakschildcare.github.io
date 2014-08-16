@@ -39,8 +39,9 @@ ul ul,ol ol {
 }
 
 li {
+    font-size:1em;
     padding:0 4px;
-    color: #0c0c0c;
+    color: #8F8F8F;
     list-style: none;
 }
 
